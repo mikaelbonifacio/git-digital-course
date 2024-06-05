@@ -1,5 +1,6 @@
 # Curso Digital: Git/Versionamento
 
 ## Salvando alterações no repositório!
-* alterando user.name / user.email
-* comando git pull
+* comando git push
+* comando git pull 
+* comando git fetch
